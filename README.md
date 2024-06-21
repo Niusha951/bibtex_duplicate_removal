@@ -22,7 +22,7 @@ This Python script identifies and removes duplicate entries in multiple `.bib` f
 ## Files
 
 - `reference_merger.py`: Main script to process `.bib` files and update `.tex` manuscript.
-- `README.md`: This file.
+- `README.md`
 - `LICENSE`
 
 
